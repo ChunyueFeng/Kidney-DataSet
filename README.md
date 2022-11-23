@@ -1,6 +1,6 @@
 ## Introduction
 
-Kidney pathology annotation dataset, including HE and PAS stained patch image.
+Kidney pathology annotation dataset, including HE and PAS stained patch image. 
 
 ## Detail
 
