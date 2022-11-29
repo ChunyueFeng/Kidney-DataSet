@@ -8,8 +8,8 @@ The file contains two folders, HE and PAS. The original image file name ends wit
 
 Table1.Correspondence table of category index and kidney structure
 
-|  Category index  |        1        |     2      |        3         |       4        |    5     |     7     |      8      |
-| :--------------: | :-------------: | :--------: | :--------------: | :------------: | :------: | :-------: | :---------: |
-| Kidney structure | Capillary lumen | Glomerular | Proximal tubular | Distal tubular | Arteries | Mesangial | Endothelium |
+|  Category index  |        1        |     2      |        3         |       4        |    5     |     7     |       8       |
+| :--------------: | :-------------: | :--------: | :--------------: | :------------: | :------: | :-------: | :-----------: |
+| Kidney structure | Glomerular tuft | Glomerular | Proximal tubular | Distal tubular | Arteries | Mesangial | Endocapillary |
 
 ![](Kidney_annotation.png)
