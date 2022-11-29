@@ -13,3 +13,4 @@ Table1.Correspondence table of category index and kidney structure
 | Kidney structure | Glomerular tuft | Glomerular | Proximal tubular | Distal tubular | Arteries | Mesangial hypercellularity | Endocapillary hypercellularity |
 
 ![](Kidney_annotation.png)
+ 
